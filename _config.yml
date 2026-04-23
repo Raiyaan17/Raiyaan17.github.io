@@ -32,7 +32,7 @@ content:
       - layout: left
         border: weak
         title: Educational Stock Trading Simulator
-        quote: Senior Project
+        caption: Senior Project
         description: |
           * Developing a simulator using real-time Pakistan Stock Exchange data.
           * **Tech Stack:** NestJS, Next.js, PostgreSQL, and Prisma.
