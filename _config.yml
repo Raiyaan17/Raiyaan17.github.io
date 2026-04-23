@@ -8,22 +8,22 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-[cite_start]name: Raiyaan Hamid [cite: 1]
-[cite_start]title: AI-Native Full-Stack Software Engineer & Computer Science Undergraduate [cite: 4, 9]
-[cite_start]email: raiyaanjhamid@gmail.com [cite: 2]
-[cite_start]phone: "+92-320-2081869" [cite: 2]
-[cite_start]website: https://www.linkedin.com/in/raiyaan-hamid/ [cite: 2]
+name: Raiyaan Hamid
+title: AI-Native Full-Stack Software Engineer & Computer Science Undergraduate
+email: raiyaanjhamid@gmail.com
+phone: "+92-320-2081869"
+website: https://www.linkedin.com/in/raiyaan-hamid/
 
 # Dark Mode
 darkmode: true
 
 # Social links
-[cite_start]github_username: Raiyaan17 [cite: 2]
-[cite_start]linkedin_username: raiyaan-hamid [cite: 2]
+github_username: Raiyaan17
+linkedin_username: raiyaan-hamid
 
 # About Section
 about_content: |
-  Computer Science undergraduate at LUMS with a focus on high-signal development and production-grade infrastructure[cite: 4]. Experienced in AI-native full-stack engineering, stakeholder management, and leading cross-functional teams to drive revenue and operational efficiency[cite: 9, 21, 49].
+  Computer Science undergraduate at LUMS with a focus on high-signal development and production-grade infrastructure. Experienced in AI-native full-stack engineering, stakeholder management, and leading cross-functional teams to drive revenue and operational efficiency.
 
 content:
   - title: Projects
@@ -31,58 +31,58 @@ content:
     content:
       - layout: left
         border: weak
-        [cite_start]title: Educational Stock Trading Simulator [cite: 45]
-        [cite_start]quote: Senior Project [cite: 44]
+        title: Educational Stock Trading Simulator
+        quote: Senior Project
         description: |
-          * Developing a simulator using real-time Pakistan Stock Exchange data[cite: 45].
-          * **Tech Stack:** NestJS, Next.js, PostgreSQL, and Prisma [cite: 46]. [cite: 48]
+          * Developing a simulator using real-time Pakistan Stock Exchange data.
+          * **Tech Stack:** NestJS, Next.js, PostgreSQL, and Prisma.
 
   - title: Experience
     layout: list
     content:
       - layout: right
-        [cite_start]title: BiteBuddyAI [cite: 9]
-        [cite_start]sub_title: AI-Native Full-Stack Software Engineering Intern [cite: 9]
-        [cite_start]caption: Dec 2025 - Jan 2026 [cite: 11]
+        title: BiteBuddyAI
+        sub_title: AI-Native Full-Stack Software Engineering Intern
+        caption: Dec 2025 - Jan 2026
         description: |
-          * Delivered 5+ foundational pre-launch feature tickets within 30 days[cite: 12].
-          * Reduced developer environment setup time by 50% via a consolidated quick-start script[cite: 13].
-          * Deployed responsive UI components using AI-led design principles[cite: 14].
+          * Delivered 5+ foundational pre-launch feature tickets within 30 days.
+          * Reduced developer environment setup time by 50% via a consolidated quick-start script.
+          * Deployed responsive UI components using AI-led design principles.
       - layout: right
-        [cite_start]title: DigitalCVI [cite: 14]
-        [cite_start]sub_title: Founding Member [cite: 14]
-        [cite_start]caption: Sept 2024 - Jun 2025 [cite: 15]
+        title: DigitalCVI
+        sub_title: Founding Member
+        caption: Sept 2024 - Jun 2025
         description: |
-          * Directed a 5-person team delivering web-development and brand design services[cite: 16].
-          * Managed client relations and translated complex requirements into executable action items[cite: 17, 18].
+          * Directed a 5-person team delivering web-development and brand design services.
+          * Managed client relations and translated complex requirements into executable action items.
       - layout: right
-        [cite_start]title: International Quality Investments (IQI) [cite: 19]
-        [cite_start]sub_title: Real Estate Consultant [cite: 19]
-        [cite_start]caption: Aug 2024 - Jun 2025 [cite: 20]
+        title: International Quality Investments (IQI)
+        sub_title: Real Estate Consultant
+        caption: Aug 2024 - Jun 2025
         description: |
-          * Executed a PKR 2.4M property deal at Emaar Oceanfront[cite: 22].
-          * Led a team of 6 junior consultants to generate PKR 1.5M in revenue[cite: 21].
-          * Produced content driving 250k+ views and 300k+ impressions[cite: 23].
+          * Executed a PKR 2.4M property deal at Emaar Oceanfront.
+          * Led a team of 6 junior consultants to generate PKR 1.5M in revenue.
+          * Produced content driving 250k+ views and 300k+ impressions.
 
   - title: Education
     layout: list
     content:
       - layout: top-right
-        [cite_start]title: Lahore University of Management Sciences [cite: 4]
-        [cite_start]sub_title: BSc Computer Science [cite: 4]
-        [cite_start]caption: 2021 - Present [cite: 5]
+        title: Lahore University of Management Sciences
+        sub_title: BSc Computer Science
+        caption: 2021 - Present
         description: |
-          * Relevant Courses: Software Engineering, Data Science, Databases, and Entrepreneurship[cite: 6, 7].
+          * Relevant Courses: Software Engineering, Data Science, Databases, and Entrepreneurship.
       - layout: top-right
-        [cite_start]title: Karachi Grammar School [cite: 7]
-        [cite_start]sub_title: A-levels (Natural Sciences) [cite: 7]
-        [cite_start]caption: 2019 - 2021 [cite: 10]
+        title: Karachi Grammar School
+        sub_title: A-levels (Natural Sciences)
+        caption: 2019 - 2021
         description: |
-          * SAT Score: 1480 (99th Percentile)[cite: 7].
+          * SAT Score: 1480 (99th Percentile).
 
   - title: Skills & Interests
     layout: text
     content: |
-      * **Technical:** Python (NumPy, pandas, Matplotlib), NestJS, Next.js, PostgreSQL, Data Analysis[cite: 46, 50].
-      * **Leadership:** Stakeholder Management, Negotiation, Cross-Functional Leadership[cite: 49, 51].
-      * **Interests:** High performance protocols, human behavior, fitness, and consumer tech[cite: 52, 53].
+      * **Technical:** Python (NumPy, pandas, Matplotlib), NestJS, Next.js, PostgreSQL, Data Analysis.
+      * **Leadership:** Stakeholder Management, Negotiation, Cross-Functional Leadership.
+      * **Interests:** High performance protocols, human behavior, fitness, and consumer tech.
