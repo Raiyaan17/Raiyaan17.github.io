@@ -1,5 +1,7 @@
 # Site
-[cite_start]repository: Raiyaan17/modern-resume-theme [cite: 2]
+url: "https://raiyaan17.github.io"
+baseurl: ""
+repository: Raiyaan17/Raiyaan17.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
